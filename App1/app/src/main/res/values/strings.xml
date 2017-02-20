@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Steps</string>
+    <string name="app_see_steps">View my steps</string>
+    <string name="app_take_steps">Take a step</string>
+</resources>
